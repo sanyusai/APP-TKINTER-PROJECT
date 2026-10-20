@@ -1,0 +1,2 @@
+# Only ONE third-party package is needed (for the PDF report). Everything else is the Python standard library.
+reportlab>=4.0
